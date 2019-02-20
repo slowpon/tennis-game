@@ -1,0 +1,11 @@
+D:\c#_game\tennis\tennis\bin\Debug\tennis.exe.config
+D:\c#_game\tennis\tennis\bin\Debug\tennis.exe
+D:\c#_game\tennis\tennis\bin\Debug\tennis.pdb
+D:\c#_game\tennis\tennis\obj\Debug\tennis.csprojResolveAssemblyReference.cache
+D:\c#_game\tennis\tennis\obj\Debug\tennis.Properties.Resources.resources
+D:\c#_game\tennis\tennis\obj\Debug\tennis.csproj.GenerateResource.cache
+D:\c#_game\tennis\tennis\obj\Debug\tennis.csproj.CoreCompileInputs.cache
+D:\c#_game\tennis\tennis\obj\Debug\tennis.exe
+D:\c#_game\tennis\tennis\obj\Debug\tennis.pdb
+D:\c#_game\tennis\tennis\obj\Debug\tennis.FormMain.resources
+D:\c#_game\tennis\tennis\obj\Debug\tennis.menu.resources
